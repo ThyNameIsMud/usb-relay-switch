@@ -1,0 +1,7 @@
+{
+	"vendorId"  : "0x1a86",
+	"productId" : "0x7523",
+	"baudRate"  : 9600,
+	"onCommand" : "A00101A2",
+	"offCommand": "A00100A1"
+}
